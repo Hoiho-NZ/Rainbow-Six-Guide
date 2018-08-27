@@ -1,0 +1,42 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(71, 113, 135);
+    color: rgb(3,36,54);
+}
+
+.heading {
+    text-align: center;
+    border: 3px solid rgb(17,59,81);
+    background-color: rgb(111,144,162); 
+}
+
+.intro {
+    text-align: center;
+    border: 3px solid rgb(17,59,81);
+    background-color: rgb(111,144,162);
+}
+
+.attachment {
+    text-align: center;
+    border: 3px solid rgb(17,59,81);
+    background-color: rgb(111,144,162);
+}
+
+.op {
+    text-align: center;
+    border: 3px solid rgb(17,59,81);
+    background-color: rgb(111,144,162);
+}
+
+.gameplay {
+    text-align: center;
+    border: 3px solid rgb(17,59,81);
+    background-color: rgb(111,144,162);
+}
+
+.objective {
+    text-align: center;
+    border: 3px solid rgb(17,59,81);
+    background-color: rgb(111,144,162);
+}
